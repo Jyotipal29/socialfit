@@ -13,7 +13,7 @@ function VideoCard({ video, tags, heading }) {
         <div className="p-2"></div>
         <div className="flex gap-4">
           {tags.map((tag) => (
-            <span className="border-2 border-gray-600 py-1 px-5   rounded-md text-[14px]">
+            <span className="border-2 border-gray-600 py-1 px-2   rounded-md text-[14px]">
               {tag}
             </span>
           ))}
