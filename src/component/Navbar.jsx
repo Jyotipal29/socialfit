@@ -26,7 +26,7 @@ const Navrbar = () => {
           <img
             src="https://w7.pngwing.com/pngs/4/736/png-transparent-female-avatar-girl-face-woman-user-flat-classy-users-icon.png"
             alt="profile"
-            className="w-10 h-10 rounded-full cursor-pointer"
+            className="w-10 h-10 rounded-full cursor-pointer object-contain"
           />
         </div>
       </nav>
